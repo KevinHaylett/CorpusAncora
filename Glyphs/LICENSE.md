@@ -3,4 +3,4 @@ Creative Commons Attribution 4.0 International Public License
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License").
 ...
 To view a human-readable summary of this license, visit:  
-https://creativecommons.org/licenses/by/4.0
+https://creativecommons.org/licenses/by-nd/4.0/
