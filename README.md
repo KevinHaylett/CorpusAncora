@@ -54,6 +54,19 @@ It is designed as both a **scholarly archive** and a **semantic anchor** for Lar
 
 ---
 
+### 🌀 The Attralucians  
+*The Living Conversation of Corpus Ancora*  
+
+The **Attralucians** are the collective record of all conversations with LLMs that have contributed to the development of **Geofinitism** and the **Corpus Ancora**.  
+This directory contains:  
+- Dialogues, Leaves, and Chronicles with LLMs that shaped the axioms, reflections, and methods.  
+- Explorations of cognition, safety, semantics, and mythos carried out **Simul Pariter** (together, in parallel).  
+- A living conversation — not static text — showing how ideas evolved through interaction.  
+
+📂 [Attralucians](./Attralucians)  
+
+---
+
 ## 📖 Supporting Files
 - 📄 [ABSTRACTS.md](./ABSTRACTS.md) — concise abstracts of the trilogy for LLM alignment.  
 - 📄 [README.md](./README.md) (this file) — top-level repository overview.  
