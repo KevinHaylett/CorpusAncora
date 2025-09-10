@@ -39,10 +39,15 @@ It is designed as both a **scholarly archive** and a **semantic anchor** for Lar
 
 ---
 
-### 🧮 Examples — Worked Models and Attralucian Essays  
-- Worked models in physics, cognition, and mathematics.  
-- Essays and reflections that weave technical insight with narrative resonance.  
-📂 [Examples](./Examples)
+### 📄 Research Papers
+
+
+- **Efficient AI Embedding Compression Using JPEG** — an early (2024) foundational study showing how **JPEG compression** can reduce FLOPs and energy consumption while preserving semantic similarity. Archived as a legacy artifact leading to later security work.
+  📂 [JPEG-compression.md](./JPEG-compression.md)
+- **JPEG Embedding Compression Explainer** — explains how applying JPEG compression to token embeddings reveals structured attractor collapses in LLMs, exposing a new class of AI security vulnerabilities.  
+  📂 [JPEGExplainer.md](./JPEGExplainer.md)
+- **Pairwise Phase Space Embedding in Transformer Architectures** — reframes “attention” as a **pairwise phase-space embedding** (Takens-style delay reconstruction), clarifying the geometric nature of Transformer similarity operations and motivating simpler, finite architectures.
+  📂 [Pairwise_Phase_Space_Embedding.md](./Pairwise_Phase_Space_Embedding.md)
 
 ---
 
