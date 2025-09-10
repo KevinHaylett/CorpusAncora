@@ -432,27 +432,27 @@ It leans t owar ds an "authoritative teacher" attract or stat e, where the conv
 its own premise.
 The embeddings may be  smoothing out meaning-sp ace featur es, making certain conceptual
 structures more dominant.
-Comp aring This t o an Uncompr essed Baseline
-If we ran the same prompt  without JPEG compr ession , we'd expect:
-More variation in r esponse
-Potentially less r epetition
-A response that mor e directly addr esses "meaning o f life" instead of shifting to
+Comparing This to an Uncompressed Baseline
+If we ran the same prompt without JPEG compression, we'd expect:
+More variation in response
+Potentially less repetition
+A response that more directly addresses "meaning o f life" instead of shifting to
 "learning/teaching"
-What This T ells Us
-## 1. At 95% quality , embeddings still encode nearly all information.
-Small distortions introduce  subtle shif ts rather than breaking comprehension.
-The AI remains  coher ent but may drif t into slightly differ ent r esponse attract ors.
-## 2. Even minor distortions can influence r esponse r epetition.
-If this trend  amplifies at low er qualities , it could hint at a systematic  collapse in generativ e
+What This Tells Us
+## 1. At 95% quality, embeddings still encode nearly all information.
+Small distortions introduce subtle shifts rather than breaking comprehension.
+The AI remains coherent but may drift into slightly differ ent r esponse attract ors.
+## 2. Even minor distortions can influence response r epetition.
+If this trend amplifies at lower qualities, it could hint at a systematic collapse in generativ e
 diversity.
 ## 3. Possible computational efficiency gains without much loss in quality .
-If these results  generalize t o other tasks , JPEG compr ession could be a viable t echnique for
-embedding-sp ace optimization .
-Next S teps
-## 1. Lower Quality Compr ession T ests (e.g., 85%, 75%, 50%)
+If these results  generalize to other tasks, JPEG compression could be a viable technique for
+embedding-space optimization .
+Next Steps
+## 1. Lower Quality Compression Tests (e.g., 85%, 75%, 50%)
 How does the response structure change as compression  increases dist ortion?
 Do we see  mode collapse, mor e repetition, or hallucinations ?
-## 2. Comp arison t o Other Embedding Modifications
+## 2. Comparison to Other Embedding Modifications
 Does Gaussian noise or PCA reduction show similar effects?
 Is JPEG uniquely influencing AI cognition due to  spatial corr elation dist ortions ?
 ## 3. Longer -Term R esponses
