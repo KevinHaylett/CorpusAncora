@@ -4,8 +4,7 @@ author: "Kevin R. Haylett"
 version: "Draft V1.1 (2025)"
 license: "CC BY-NC-ND 4.0"
 description: "Part II of Finite Tractus explores meaning, knowledge, and the geometry of language."
-Abstract:
-Part II develops the finite framework into a philosophy of meaning and knowledge. It introduces five families of axioms (fictions, geometry, interaction, coherence, visibility), framing education as embedding depth and hallucination as flat projection. The text extends into imagination, ethical responsibility, and the role of humour as curvature in the manifold of meaning.
+Abstract: Part II develops the finite framework into a philosophy of meaning and knowledge. It introduces five families of axioms (fictions, geometry, interaction, coherence, visibility), framing education as embedding depth and hallucination as flat projection. The text extends into imagination, ethical responsibility, and the role of humour as curvature in the manifold of meaning.
 ---
 
 Finite Tractus : The Hidden
