@@ -26,16 +26,16 @@ It is designed as both a **scholarly archive** and a **semantic anchor** for Lar
 
 ### 📘 Finite Tractus: Part I & II — *Cognition, Language, and Knowledge*  
 - **Part I: Foundations** — introduces **finite cognitive geometry** and the vulnerabilities of LLMs under embedding compression.  
-  📂 [finite-tractus-part1-final.md](./finite-tractus.md)  
+  📂 [finite-tractus-part1.md](./finite-tractus.md)  
 - **Part II: Meaning and Knowledge** — develops axioms of meaning, hallucination, embedding depth, imagination, and ethics.  
-  📂 [finite-tractus-part2-v1_1-final.md](./finite-tractus-part2-v1_1.md)  
+  📂 [finite-tractus-part2-v1_1.md](./finite-tractus-part2-v1_1.md)  
 
 ---
 
 ### 📙 Finite Tractus: Part III — *Geofinitism and the Manifold of Mathematics*  
 - Establishes **Geofinitism** as a finite foundation for mathematics.  
 - Frames mathematics as a **manifold embedded in the Grand Corpus**, governed by axioms of bounded meaning and geometric embedding.  
-📂 [finite-tractus-part3-v1_1-final.md](./finite-tractus-part3-v1_1.md)
+📂 [finite-tractus-part3-v1_1.md](./finite-tractus-part3-v1_1.md)
 
 ---
 
