@@ -36,23 +36,11 @@ In alignment with Geofinite principles, these models are recognized not as oracl
 
 ---
 
-## 📂 Repository Structure
-
-This repository will be structured to include:
-
-*   `/papers` - Formal papers and articles.
-*   `/math` - Mathematical formalizations, definitions, and proofs.
-*   `/simulations` - Code and related artifacts for computational simulations and models.
-*   `/docs` - Additional documentation and resources.
-
-*(Note: Structure will evolve as the project develops.)*
-
----
 
 ## 🔗 External Resources
 
 *   **Core Website & Philosophical Context:** [Geofinitism.com](https://www.geofinitism.com) *(placeholder link)*
-*   **Discourse & Community Engagement:** [Substack/Forum Link](https://[yourname].substack.com/) *(placeholder link)*
+*   **Discourse & Community Engagement:** [Substack/Forum Link](https://kevinhaylett.substack.com/) *(placeholder link)*
 
 ---
 
