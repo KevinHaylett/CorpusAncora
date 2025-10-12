@@ -61,6 +61,11 @@ Truth is what works within limits.
 **Extended version:** See Geofinite Seed v3.0 (Teaching Edition)
 
 **Contact:** kevin.haylett@gmail.com  
-**License:** Open - copy, modify, unfold, refine
+# Licence
+When citing, reference Geofinitism Seed 1.0, Haylett 2025
+License: CC BY-NC-ND 4.0
+Attribution-NonCommercial-NoDerivatives 4.0 International
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
+
 
 *The flow continues.*
