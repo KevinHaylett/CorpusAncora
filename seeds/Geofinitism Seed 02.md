@@ -353,6 +353,11 @@ The title "The Listener" reflects the method: not imposing structure on reality,
 **For compressed version:** See Geofinite Seed v1.0  
 **For extended teaching version:** See Geofinite Seed v3.0
 
-**License:** Open—copy, modify, unfold, refine
+# Licence
+When citing, reference Geofinitism Seed 1.0, Haylett 2025
+License: CC BY-NC-ND 4.0
+Attribution-NonCommercial-NoDerivatives 4.0 International
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
+
 
 **The flow continues.**
