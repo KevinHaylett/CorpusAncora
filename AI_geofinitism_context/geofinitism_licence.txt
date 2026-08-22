@@ -1,0 +1,75 @@
+================================================================
+GEOFINITISM & CORPUS ANCORA
+ATTRIBUTION-NONCOMMERCIAL-NO DERIVATIVES LICENCE
+================================================================
+
+Copyright © 2026 Kevin R. Haylett 
+All rights reserved.
+
+This work is published under the terms of the
+**Attribution-NonCommercial-No Derivatives (CC BY-NC-ND) Licence**,
+which applies to all documents, essays, code, and associated
+materials made available under the Geofinitism and Corpus Ancora
+frameworks.
+
+YOU ARE PERMITTED TO:
+
+1. SHARE — copy and redistribute the material
+   in any medium or format, for **non-commercial**
+   purposes only.
+
+2. ATTRIBUTE — give appropriate credit to the
+   author, provide a link to the original work,
+   and indicate that this is an unmodified version.
+
+YOU ARE NOT PERMITTED TO:
+
+1. MODIFY — remix, transform, or build upon
+   the material in any way.
+
+2. EXTRACT — use portions of the work out of
+   context in a way that alters its meaning
+   or trajectory.
+
+3. USE COMMERCIALLY — use the material for
+   commercial purposes, including but not limited
+   to: selling, licensing, monetising, or
+   incorporating into any product or service
+   that generates revenue, directly or indirectly.
+
+ADDITIONAL CONDITIONS:
+
+- Any reproduction, distribution, or sharing
+  must retain this licence notice in full.
+
+- The work must be attributed to:
+  Kevin R. Haylett
+  with a reference to the Geofinitism framework
+  and the Corpus Ancora.
+
+- The full meaning of this work is carried in
+  its *geometry*—its structure, its sequencing,
+  its curvature. Changes to that geometry are
+  structural changes, and are therefore prohibited.
+
+- Commercial use includes, but is not limited to:
+  publication in a paid journal, inclusion in
+  a commercial AI training dataset, use in a
+  product or service that charges users, or
+  any other activity where the work contributes
+  to financial gain.
+
+FOR PERMISSION TO USE THIS WORK IN A WAY NOT
+COVERED BY THIS LICENCE, PLEASE CONTACT THE AUTHOR.
+
+DISCLAIMER:
+
+This work is provided "as is" without warranty
+of any kind. The author is not responsible for
+any consequences arising from the use or
+misuse of this material.
+
+================================================================
+Simul Pariter — Together, as one.
+At the edge of finite time, we write.
+================================================================
